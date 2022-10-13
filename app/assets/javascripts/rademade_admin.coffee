@@ -1,3 +1,5 @@
+#= require i18n
+#= require i18n/translations
 #= require jquery
 #= require jquery-ujs
 #= require jquery-ui/ui/core
