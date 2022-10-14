@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.version     = RademadeAdmin::VERSION
   s.authors     = ['Vladislav Melanitskiy', 'Denis Sergienko', 'Sergey Kuzhavskiy']
   s.email       = %w(co@rademade.com olol.toor@gmail.com kuzh@rademade.com)
-  s.homepage    = 'https://github.com/Rademade/rademade_admin'
+  s.homepage    = 'https://github.com/nareshsingh8/rademade_admin'
   s.summary     = 'Rails admin panel engine'
   s.description = 'Best rails admin panel. Great mechanism for customization and rapid development'
   s.licenses    = ['MIT']
