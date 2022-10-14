@@ -31,6 +31,7 @@ module RademadeAdmin
         :navigation_menu_block => block_path('navigation/menu'),
         :navigation_menu_item_block => block_path('navigation/menu/item'),
         :search_block => block_path('search'),
+        :yn_search_block => block_path('yn_search'),
         :pagination_block => block_path('pagination'),
         :on_page_switcher_block => block_path('on_page_switcher'),
         :table_head_block => block_path('table/head'),
