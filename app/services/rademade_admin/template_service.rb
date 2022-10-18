@@ -36,6 +36,7 @@ module RademadeAdmin
         :on_page_switcher_block => block_path('on_page_switcher'),
         :custom_table_temp => block_path('yn_table/yn_table_struc'),
         :table_head_block => block_path('table/head'),
+        :yn_table_head_block => block_path('yn_table/yn_table_head'),
         :table_head_list => block_path('table/list'),
         :list_block => block_path('list'),
         :form_block => block_path('form'),
