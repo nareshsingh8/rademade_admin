@@ -26,7 +26,7 @@ end%>">
           end
       %>"><%
           menu_item[:sub].each do |sub_item|
-              concat render @template_service.navigation_menu_item_block, {
+              concat render @template_service.yn_navigation_menu_item_block, {
                   :menu_item => sub_item
               }
           end
